@@ -1,2 +1,2 @@
 # FlappyBird
-Praktikum FlappyBird 2022
+Uni Praktikum FlappyBird 2022 (1. Semester) 
